@@ -24,7 +24,6 @@ public class Server {
         LOGGER.info("Server have started!");
         while (true){
             Socket socket=serverSocket.accept();
-            new ClientWorker(valueFromServer, socket);
             Thread thread=new Thread(new ClientWorker(valueFromServer, socket));
             thread.start();
         }
