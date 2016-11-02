@@ -1,4 +1,4 @@
-package ru.palata6.reflection.proxy;
+package ru.homeworks.reflection.proxy;
 
 import java.math.BigInteger;
 

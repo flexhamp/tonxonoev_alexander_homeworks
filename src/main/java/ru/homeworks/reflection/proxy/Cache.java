@@ -1,4 +1,4 @@
-package ru.palata6.reflection.proxy;
+package ru.homeworks.reflection.proxy;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,6 @@
-package ru.homeworks.reflection.proxy;
+package ru.homeworks.reflection.part1;
+
+import ru.homeworks.reflection.proxy.SimpleClass;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

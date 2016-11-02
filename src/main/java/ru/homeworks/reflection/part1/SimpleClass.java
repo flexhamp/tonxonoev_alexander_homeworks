@@ -1,4 +1,4 @@
-package ru.homeworks.reflection.proxy;
+package ru.homeworks.reflection.part1;
 
 /**
  * Created by atonk on 12.10.2016.
